@@ -2,6 +2,8 @@
 
 ![Simple Web Stack Diagram](./img/0-simple_web_stack.png)
 
+## Description of the infrastructure
+
 ### Server
 
 The server is a physical or virtual machine that hosts the entire web infrastructure.
@@ -40,7 +42,7 @@ The application server communicates with the database to perform data operations
 The server communicates with the user's computer over the Internet using the HTTP protocol.
 When the user requests a webpage, the server responds by sending the requested content back to the user's browser.
 
-## Potential Issues with this Infrastructure
+## Potential infrastructure problems.
 
 - **Single Point of Failure (SPOF)**: Since this infrastructure consists of a single server, if the server fails or goes down, the entire website becomes inaccessible.
 
