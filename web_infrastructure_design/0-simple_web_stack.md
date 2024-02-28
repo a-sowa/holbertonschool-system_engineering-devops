@@ -1,10 +1,12 @@
 # <p align="center">Web Infrastructure Design</p>
+
 ![Simple Web Stack Diagram](./img/0-simple_web_stack.png)
 
 ### Server
 
 The server is a physical or virtual machine that hosts the entire web infrastructure.
 It runs the necessary software and services to serve the website.
+
 ### Domain Name and DNS Record
 
 The domain name (foobar.com) is the human-readable address used to identify the website.
