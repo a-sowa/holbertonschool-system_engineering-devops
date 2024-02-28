@@ -1,5 +1,5 @@
 # <p align="center">Web Infrastructure Design</p>
-![Diagram](/img/0-simple_web_stack.png)
+![Simple Web Stack Diagram](./img/0-simple_web_stack.png)
 
 ### Server
 
