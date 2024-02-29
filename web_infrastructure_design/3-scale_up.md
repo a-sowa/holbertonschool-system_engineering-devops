@@ -4,8 +4,6 @@
 
 ## Description of the Infrastructure
 
-The infrastructure includes the following components:
-
 ### One more Server
 We add an additional server to enhance the reliability and performance of the infrastructure. With multiple servers, we can distribute the workload and provide redundancy, reducing the risk of a single point of failure.
 
